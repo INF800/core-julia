@@ -2,7 +2,7 @@
 
 ## 01/ Basics 
 
-**Let's keep the tooling simple**
+⚡️ **Let's keep the tooling simple**
 
 - 01-00-Hello-world
 - 01-01-simple-function
