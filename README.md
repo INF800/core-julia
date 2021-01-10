@@ -8,3 +8,8 @@
 - 01-01-simple-function
 - 01-02-use-code-from-other-files
 - 01-03-variables
+
+
+## 02/ Data Types
+
+👊 **This was supposed to be easy**
