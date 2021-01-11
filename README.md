@@ -17,3 +17,8 @@
 - 02-00-integer-and-big
 - 02-01-float
 - 02-02-zero-one
+
+
+# 03/ Strings
+
+🌟 "String" and 'Char' are different

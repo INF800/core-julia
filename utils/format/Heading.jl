@@ -7,6 +7,9 @@ module Heading
     end    
 
     function sub(txt)
-        println(txt, "\n")
+        println("-------------------------------------------------------------")
+        println(txt)
+        println("-------------------------------------------------------------")
+
     end
 end
